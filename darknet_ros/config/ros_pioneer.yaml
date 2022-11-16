@@ -1,7 +1,7 @@
 subscribers:
 
   camera_reading:
-    topic: /husky1/realsense/color/image_raw
+    topic: /pioneer/realsense/color/image_raw
     queue_size: 1
 
 actions:
