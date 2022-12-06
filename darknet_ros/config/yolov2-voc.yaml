@@ -1,5 +1,6 @@
 yolo_model:
 
+
   config_file:
     name: yolov2-voc.cfg
   weight_file:
